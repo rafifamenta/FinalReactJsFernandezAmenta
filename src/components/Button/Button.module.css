@@ -1,0 +1,12 @@
+.btn {
+    padding: 8px;
+    font-size: 15px;
+    background-color: rgb(97, 150, 220);
+    border-radius: 4px;
+    margin: 5px 15px;
+    border: none;
+    cursor: pointer;
+    color: #fdfbf9;
+    justify-content: center;
+    font-family: 'Nunito';
+}

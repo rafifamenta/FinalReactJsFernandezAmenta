@@ -1,0 +1,26 @@
+.title {
+  font-family: 'Nunito';
+  font-size: 20px;
+}
+
+.form_container {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  margin-top: 30px;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.form_btn {
+  background-color: #445c83cc;
+  border-radius: 4px;
+  margin: 10px 0px 5px 15px;
+  border: none;
+  cursor: pointer;
+  color: #fdfbf9;
+  justify-content: center;
+  font-family: 'Nunito';
+  padding: 8px;
+}

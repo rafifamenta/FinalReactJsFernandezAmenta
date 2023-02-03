@@ -1,0 +1,41 @@
+nav ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav a {
+    color: #fdfbf9;
+    display: block;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    font-family: "Nunito";
+    font-size: 18px;
+}
+
+.nav-menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #445c83;
+    padding: 3px;
+}
+
+.imgLogo {
+    width: 45px;
+    height: 45px;
+    ;
+}
+
+nav a:hover {
+    background-color: #5473a4;
+}
+
+form.login {
+    font-family: 'Nunito';
+    font-size: 20px;
+    color: #fdfbf9;
+}
